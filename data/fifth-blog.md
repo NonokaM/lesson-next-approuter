@@ -1,7 +1,7 @@
 ---
 id: 5
-title: "fifth-blog-title"
-date: "2023-12-8"
+title: "5つ目の記事"
+date: "20xx-05-05"
 image: ""
 excerpt: ""
 ---

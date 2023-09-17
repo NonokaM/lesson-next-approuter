@@ -2,8 +2,8 @@
 const nextConfig = {
     webpack: function (config) {
         config.module.rules.push({
-            test:/\.md$/,
-            use:"rawloader",
+            test: /\.md$/,
+            use: "raw-loader",
         })
         return config
     },
